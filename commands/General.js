@@ -72,12 +72,12 @@ france({ nomCom: "owner", categorie: "General", reaction: "🔰" }, async (dest,
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "UMAR", numero: "233201817959" },
-      { nom: "᚛UMAR᚜", numero: "233201817959" },
+      { nom: "|UMAR|", numero: "233201817959" },
+      { nom: "WHATSAPP•|•CHANNEL", numero: "https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "🔰 GOLD-MD DEVOLPER NUMBERS 🔰:\n\n";
+    let message = "🔰 GOLD-MD OWNER 🔰:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -111,7 +111,7 @@ else {
 france({ nomCom: "help", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("*_APKO HELP CHAHYE MERA WHATSAPP CHANNEL FOLLOW KARO")
+  repondre("_APKO HELP CHAHYE MERA WHATSAPP CHANNEL FOLLOW KARO_")
   await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y`},{quoted :ms})
 
 })
