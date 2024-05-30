@@ -8,7 +8,7 @@
 
 ***
 
-# *_GET • [SESSION ID](https://bot-by-umar-d2b1b3360401.herokuapp.com) • FOR GOLD-MD_*
+# *_GET • [SESSION ID](https://gold-md1-by-umar-1d546c44c9c3.herokuapp.com) • FOR GOLD-MD_*
 
 ***
 
