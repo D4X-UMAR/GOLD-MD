@@ -111,7 +111,7 @@ else {
 france({ nomCom: "help", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("_APKO HELP CHAHYE MERA WHATSAPP CHANNEL FOLLOW KARO_")
-  await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y`},{quoted :ms})
+  repondre("_APKO HELP CHAHYE MERA GOLD-MD KA OFFICIAL WHATSAPP CHANNEL FOLLOW KARO_")
+  await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m`},{quoted :ms})
 
 })
