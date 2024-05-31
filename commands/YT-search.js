@@ -52,7 +52,7 @@ france({ nomCom: "yts", categorie: "Search", reaction: "🔰" }, async (dest, zk
 });
 
 france({
-  nomCom: "ytmp4",
+  nomCom: "ytv",
   categorie: "Download",
   reaction: "🔰"
 }, async (origineMessage, zk, commandeOptions) => {
@@ -114,7 +114,7 @@ _*En cours de téléchargement...*_\n\n`
 });
 
 france({
-  nomCom: "ytmp3",
+  nomCom: "song",
   categorie: "Download",
   reaction: "🔰"
 }, async (origineMessage, zk, commandeOptions) => {
