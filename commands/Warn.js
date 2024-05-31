@@ -40,7 +40,7 @@ if(verifAdmin || superUser) {
    let warnlimit = s.WARN_COUNT
    
    if( warn >= warnlimit ) { await repondre('Is bande ki warnigs khatam hui , to mene remove ker dya');
-                zk.groupParticipantsUpdate(dest, [auteurMsgRepondu], "kick")
+                zk.groupParticipantsUpdate(dest, [auteurMsgRepondu], "remove")
  } else { 
 
     var rest = warnlimit - warn ;
