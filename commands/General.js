@@ -73,7 +73,6 @@ france({ nomCom: "owner", categorie: "General", reaction: "🔰" }, async (dest,
 
     const devs = [
       { nom: "|UMAR|", numero: "233201817959" },
-      { nom: "WHATSAPP•|•CHANNEL", numero: "https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
