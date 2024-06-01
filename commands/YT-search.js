@@ -59,7 +59,7 @@ france({
   const { arg, ms, repondre } = commandeOptions;
 
   if (!arg[0]) {
-    repondre("Mujhe youtube ki video ka link do");
+    repondre("Video download karne ke lie Mujhe youtube video ka link do");
     return;
   }
 
@@ -121,7 +121,7 @@ france({
   const { ms, repondre, arg } = commandeOptions;
 
   if (!arg[0]) {
-    repondre("Mujhe youtube ki video ka link do");
+    repondre("Song download karne ke lie Mujhe youtube video ka link do");
     return;
   }
 
