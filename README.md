@@ -14,8 +14,6 @@
 
 # *_GET • [SESSION ID](https://gold-md-server-1-ac249c5a71fb.herokuapp.com) • WITH SERVER 1_*
 
-***
-
  ***
 
 # *_GET • [SESSION ID](https://gold-md-server-2-7913a772d360.herokuapp.com) • WITH SERVER 2_*
