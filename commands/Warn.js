@@ -32,7 +32,7 @@ france(
 if(!verifGroupe ) {repondre('Yeh command sirf groups me use karo') ; return};
 
 if(verifAdmin || superUser) {
-   if(!msgRepondu){repondre('Ap kis Bande ko warnig dena chahte hai usko mention karo'); return};
+   if(!msgRepondu){repondre('Ap kis member ko warnig dena chahte hai usko tag karo ya mention karo'); return};
    
    if (!arg || !arg[0] || arg.join('') === '') {
     await ajouterUtilisateurAvecWarnCount(auteurMsgRepondu)
