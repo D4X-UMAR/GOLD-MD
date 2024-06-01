@@ -36,7 +36,7 @@ async function uploadToTelegraph(Path) {
 
 
 
-france({nomCom:"sticker",categorie: "Conversion", reaction: "🔰"},async(origineMessage,zk,commandeOptions)=>{
+france({nomCom:"sticker/s",categorie: "Conversion", reaction: "🔰"},async(origineMessage,zk,commandeOptions)=>{
 
 let {ms,mtype,arg,repondre,nomAuteurMessage}=commandeOptions
   var txt=JSON.stringify(ms.message)
@@ -103,7 +103,7 @@ const alea = (ext) => {
       quality: 40,
     });
   } else {
-    repondre("Kisi bhi pohoto ya 5 seconds ki video ko mention karo");
+    repondre("Kisi bhi pohoto ya 5 seconds ki video ya photo ko mention karo");
     return;
   }
 
@@ -144,7 +144,7 @@ mediamsg = msgRepondu.videoMessage
   else if (msgRepondu.stickerMessage) {
     mediamsg = msgRepondu.stickerMessage ;
   } else {
-    repondre('Sirf video ya photo ko mention karo'); return
+    repondre('Kisi 5 seconds ki video ya photo ko mention karo'); return
   } ;
 
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
@@ -201,7 +201,7 @@ mediamsg = msgRepondu.videoMessage
 
 
 
-france({ nomCom: "write", categorie: "Conversion", reaction: "🔰" }, async (origineMessage, zk, commandeOptions) => {
+france({ nomCom: "types", categorie: "Conversion", reaction: "🔰" }, async (origineMessage, zk, commandeOptions) => {
   const { ms, msgRepondu, arg, repondre, nomAuteurMessage } = commandeOptions;
 
   if (!msgRepondu) {
@@ -278,7 +278,7 @@ france({ nomCom: "write", categorie: "Conversion", reaction: "🔰" }, async (or
 france({nomCom:"photo",categorie: "Conversion", reaction: "🔰"},async(dest,zk,commandeOptions)=>{
    const {ms , msgRepondu,arg,repondre,nomAuteurMessage} = commandeOptions ;
 
-  if(!msgRepondu) { repondre( 'Jis ko ap ne mention kia hai check karo yeh media hai?' ) ; return } ;
+  if(!msgRepondu) { repondre( 'Kisi sticker ko mention karo' ) ; return } ;
  
    if (!msgRepondu.stickerMessage) {
       repondre('Kisi animated sticker ko mention karo'); return
