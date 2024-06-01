@@ -8,7 +8,7 @@
 
 ***
 
-# *_JUST • [FORK](https://dashboard.heroku.com/new?template=https://github.com/D4X-UMAR/GOLD-MD/fork) • THE GOLD-MD REPO
+# *_JUST • [FORK](https://dashboard.heroku.com/new?template=https://github.com/D4X-UMAR/GOLD-MD/fork) • THE GOLD-MD REPO_*
 
 ***
 
