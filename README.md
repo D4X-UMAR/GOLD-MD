@@ -34,11 +34,7 @@
 
 ***
 
-
-
-***
-
-# *_GET • [SESSION ID](https://gold-md-made-by-umar-c751c8dfbb3e.herokuapp.com) • SERVER 6_*
+# *_GET • [SESSION ID](https://gold-md-made-by-umar-c751c8dfbb3e.herokuapp.com) • WITH SERVER 6_*
 
 ***
 
