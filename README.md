@@ -51,3 +51,7 @@
 # *_DEVELOPER_*
 <a href="https://github.com/D4X-UMAR"><img src="https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg" width="250" height="250" alt="UMAR"/></a>
 # ( => • [UMAR](https://wa.me/233201817959) • <= )
+
+***
+
+# THANKS TO • [WASI](https://github.com/wasixd) • FOR API'S
