@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/D4X-UMAR">
-    <img alt="GOLD-MD" height="400" src="https://i.postimg.cc/1XQq5DzP/pictures-white949544-GOjsnnsnznznzbzbbzbz7777-GOLDLD-PIC.png">
+    <img alt="GOLD-MD" height="400" src="https://telegra.ph/file/d11da9a10be66f5b99564.jpg">
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ***
 
-# *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/D4X-UMAR/GOLD-MD&template=https://github.com/D4X-UMAR/GOLD-MD) • GOLD-MD ON HEROKU_*
+# *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/D4X-UMAR/GOLD-MD&template=https://github.com/D4X-UMAR/GOLD-MD) • PASSO-MD ON HEROKU_*
 
 ***
 
@@ -49,9 +49,9 @@
 ***
 
 # *_DEVELOPER_*
-<a href="https://github.com/D4X-UMAR"><img src="https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg" width="250" height="250" alt="UMAR"/></a>
-# ( => • [UMAR](https://wa.me/233201817959) • <= )
+<a href="https://github.com/D4X-UMAR"><img src="https://telegra.ph/file/d11da9a10be66f5b99564.jpg" width="250" height="250" alt="UMAR"/></a>
+# ( => • [DJ MAXIMUM PRO](https://wa.me/256705258548) • <= )
 
 ***
 
-# THANKS TO • [WASI](https://github.com/wasixd) • FOR API'S
+# THANKS TO • [PASSO](https://github.com/wasixd) • FOR API'S
