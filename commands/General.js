@@ -73,10 +73,11 @@ france({ nomCom: "owner", categorie: "General", reaction: "🔰" }, async (dest,
 
     const devs = [
       { nom: "|UMAR|", numero: "233201817959" },
+     { nom: "|NABEEL|", numero: "923225302306" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "🔰 GOLD-MD OWNER 🔰:\n\n";
+    let message = "🔰 GOLD-MD OWNERS 🔰:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -110,7 +111,7 @@ else {
 france({ nomCom: "help", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("_APKO HELP CHAHYE MERA GOLD-MD KA OFFICIAL WHATSAPP CHANNEL FOLLOW KARO_")
+  repondre("_APKO HELP CHAHYE MENE GOLD-MD  OFFICIAL WHATSAPP CHANNEL KA LINK APKE INBOX DM ME BSEND KAR DIYA HAI USE FOLLOW KAR LO_")
   await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m`},{quoted :ms})
 
 })
