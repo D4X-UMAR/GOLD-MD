@@ -324,7 +324,7 @@ france({ nomCom: "trt", categorie: "Conversion", reaction: "🔰" }, async (dest
       
      
 
-       if(!arg || !arg[0]) { repondre('kisi msg ko mention karo aur likho: trt en') ; return }
+       if(!arg || !arg[0]) { repondre('ap is msg ko kon si language me change karna chahte hai? Jis lanuage me change karna hai us language ke pehle 2 words likho jese language English ke pehle 2 words |en| hai jese language urdu ke pehle 2 words |ur| hai ese aur languages ke bhi hai i hope apko smjh aa gayi hogi ese likho:• trt ur') ; return }
    
 
          let texttraduit = await traduire(msgRepondu.conversation , {to : arg[0]}) ;
