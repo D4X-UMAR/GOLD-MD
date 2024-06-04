@@ -55,3 +55,9 @@
 ***
 
 # THANKS TO • [WASI](https://github.com/wasixd) • FOR API'S
+
+***
+
+# YOU HAVE SHOWING LOADING ERRORS IN DEPLOYNMENT JUST WAIT 2 MINUTES IT WILL BE START LOGS....
+
+***
