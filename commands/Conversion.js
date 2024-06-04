@@ -36,7 +36,7 @@ async function uploadToTelegraph(Path) {
 
 
 
-france({nomCom:"sticker/s",categorie: "Conversion", reaction: "🔰"},async(origineMessage,zk,commandeOptions)=>{
+france({nomCom:"s",categorie: "Conversion", reaction: "🔰"},async(origineMessage,zk,commandeOptions)=>{
 
 let {ms,mtype,arg,repondre,nomAuteurMessage}=commandeOptions
   var txt=JSON.stringify(ms.message)
@@ -103,7 +103,7 @@ const alea = (ext) => {
       quality: 40,
     });
   } else {
-    repondre("Kisi bhi pohoto ya 5 seconds ki video ya photo ko mention karo");
+    repondre("Kisi bhi photo ya 5 seconds ki video ya photo ko mention karo");
     return;
   }
 
@@ -166,7 +166,7 @@ mediamsg = msgRepondu.videoMessage
 france({nomCom:"take",categorie: "Conversion", reaction: "🔰"},async(origineMessage,zk,commandeOptions)=>{
    const {ms , msgRepondu,arg,repondre,nomAuteurMessage} = commandeOptions ;
 
-  if(!msgRepondu) { repondre( 'Check kro jis ko mention kia hai ap ne yeh media hai?' ) ; return } ;
+  if(!msgRepondu) { repondre( 'Ap kon se sticker per apna name likhna chahte hai us sticker ko mention karo' ) ; return } ;
   if(!(arg[0])) {
        pack = nomAuteurMessage
   } else {
@@ -298,7 +298,7 @@ france({nomCom:"photo",categorie: "Conversion", reaction: "🔰"},async(dest,zk,
             zk.sendMessage(
               dest,
               {
-                text: 'A non-animated sticker please',
+                text: 'kisi non-animated sticker ko mention karo',
               },
               { quoted: ms }
             );
@@ -324,7 +324,7 @@ france({ nomCom: "trt", categorie: "Conversion", reaction: "🔰" }, async (dest
       
      
 
-       if(!arg || !arg[0]) { repondre('(eg : trt en)') ; return }
+       if(!arg || !arg[0]) { repondre('kisi msg ko mention karo aur likho: trt en') ; return }
    
 
          let texttraduit = await traduire(msgRepondu.conversation , {to : arg[0]}) ;
@@ -351,7 +351,7 @@ france({ nomCom: "url", categorie: "General", reaction: "🔰" }, async (origine
   const { msgRepondu, repondre } = commandeOptions;
 
   if (!msgRepondu) {
-      repondre('Kisi bhi photo ya video ko mention karo');
+      repondre('Kisi photo ko mention karo');
       return;
   }
 
