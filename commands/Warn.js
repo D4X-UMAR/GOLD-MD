@@ -39,16 +39,16 @@ if(verifAdmin || superUser) {
    let warn = await getWarnCountByJID(auteurMsgRepondu)
    let warnlimit = s.WARN_COUNT
    
-   if( warn >= warnlimit ) { await repondre('Is bande ki warnigs khatam hui , to mene remove ker dya');
+   if( warn >= warnlimit ) { await repondre('Is member ki warnigs khatam hui , to mene remove ker dya');
                 zk.groupParticipantsUpdate(dest, [auteurMsgRepondu], "remove")
  } else { 
 
     var rest = warnlimit - warn ;
-     repondre(`Is member ko warning mil gayi hai baki warning reh gayi : ${rest} `)
+     repondre(`Is member ko mene 1 warning de di hai baki warnings reh gayi :• ${rest} `)
    }
 } else if ( arg[0] === 'reset') { await resetWarnCountByJID(auteurMsgRepondu) 
 
-    repondre("Is Bande ki warnigs reset ho gayi hai")} else ( repondre('Jis member ko ap ne pehle warning di thi usko tag ya mention karo likho .warn ou .warn reset'))
+    repondre("Is Bande ki warnigs reset ho gayi hai")} else ( repondre('Jis member ko ap ne pehle warning di thi usko tag ya mention karo likho :• .warn reset'))
    
 }  else {
     repondre('Yeh cmnd sirf group admins use kar sakte hai ap admin nahi ho')
