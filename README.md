@@ -32,10 +32,6 @@
 
 ***
 
-# *_GET • [SESSION ID](https://gold-md-made-by-umar-c751c8dfbb3e.herokuapp.com) • WITH SERVER 6_*
-
-***
-
 # *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/D4X-UMAR/GOLD-MD&template=https://github.com/D4X-UMAR/GOLD-MD) • GOLD-MD ON HEROKU_*
 
 ***
@@ -61,3 +57,5 @@
 # YOU HAVE SHOWING LOADING ERRORS IN DEPLOYNMENT JUST WAIT 2 MINUTES IT WILL BE START LOGS I AM FIXING THIS ERROR...
 
 ***
+
+# SESSION ID SERVER 1 IS NOT WORKING USE OTHER SERVERS TO GET SESSION ID I WILL FIX SERVER 1 AS SOON AS POSSIBLE (UMAR)
