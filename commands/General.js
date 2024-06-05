@@ -79,7 +79,7 @@ france({ nomCom: "owner", categorie: "General", reaction: "🔰" }, async (dest,
 
     let message = "🔰 GOLD-MD OWNERS 🔰:\n\n";
     for (const dev of devs) {
-      message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
+      message += `----------------\n• ${dev.nom} : wa.me/${dev.numero}\n`;
     }
   var lien = mybotpic()
     if (lien.match(/\.(mp4|gif)$/i)) {
@@ -111,7 +111,7 @@ else {
 france({ nomCom: "help", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("*🔰 GOLD-MD 🔰* \n\n\n _APKO HELP CHAHYE MENE GOLD-MD  OFFICIAL WHATSAPP CHANNEL KA LINK APKE INBOX DM ME BSEND KAR DIYA HAI USE FOLLOW KAR LO_")
+  repondre("*🔰 GOLD-MD HELP 🔰* \n\n\n _APKO HELP CHAHYE MENE GOLD-MD  OFFICIAL WHATSAPP CHANNEL KA LINK APKE INBOX DM ME BSEND KAR DIYA HAI USE FOLLOW KAR LO_")
   await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m`},{quoted :ms})
 
 })
