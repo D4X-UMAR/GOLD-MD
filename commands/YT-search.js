@@ -114,14 +114,14 @@ _*En cours de téléchargement...*_\n\n`
 });
 
 france({
-  nomCom: "song",
+  nomCom: "yta",
   categorie: "Download",
   reaction: "🔰"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
 
   if (!arg[0]) {
-    repondre("Song download karne ke lie Mujhe youtube video ka link do");
+    repondre("Audio download karne ke lie Mujhe youtube video ka link do");
     return;
   }
 
