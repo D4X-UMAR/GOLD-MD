@@ -20,7 +20,7 @@
 
 ***
 
-# *_GET • [SESSION ID](https://gold-md-server-4-b864b9341803.herokuapp.com3 • WITH SERVER 3_*
+# *_GET • [SESSION ID](https://gold-md-server-4-b864b9341803.herokuapp.com) • WITH SERVER 3_*
 
 ***
 
