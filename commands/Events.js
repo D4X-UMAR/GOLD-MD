@@ -35,7 +35,7 @@ async function events(nomCom) {
                 if (arg[0] === 'on' || arg[0] === 'off') {
                     
                     await attribuerUnevaleur(dest, nomCom, arg[0]);
-                    repondre( nomCom + "is Successfully Activated" + arg[0]);
+                    repondre( nomCom + "Activate ho gaya" + arg[0]);
                 } else {
                     repondre('Likho on activate karne ke lie or Likho off De-activate karne ke lie');
                 }
