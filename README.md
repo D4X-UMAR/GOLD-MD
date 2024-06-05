@@ -12,23 +12,19 @@
 
 ***
 
-# *_GET • [SESSION ID](https://gold-md-server-1-ac249c5a71fb.herokuapp.com) • WITH SERVER 1_*
-
- ***
-
-# *_GET • [SESSION ID](https://gold-md-server-2-7913a772d360.herokuapp.com) • WITH SERVER 2_*
+# *_GET • [SESSION ID](https://gold-md-server-2-7913a772d360.herokuapp.com1 • WITH SERVER 1_*
 
 ***
 
-# *_GET • [SESSION ID](https://gold-md-server-3-fda056d35afd.herokuapp.com) • WITH SERVER 3_*
+# *_GET • [SESSION ID](https://gold-md-server-3-fda056d35afd.herokuapp.com) • WITH SERVER 2_*
 
 ***
 
-# *_GET • [SESSION ID](https://gold-md-server-4-b864b9341803.herokuapp.com) • WITH SERVER 4_*
+# *_GET • [SESSION ID](https://gold-md-server-4-b864b9341803.herokuapp.com3 • WITH SERVER 3_*
 
 ***
 
-# *_GET • [SESSION ID](https://gold-md-server-5-27f7d00b74e1.herokuapp.com) • WITH SERVER 5_*
+# *_GET • [SESSION ID](https://gold-md-server-5-27f7d00b74e1.herokuapp.com) • WITH SERVER 4_*
 
 ***
 
@@ -50,12 +46,8 @@
 
 ***
 
-# THANKS TO • [WASI](https://github.com/wasixd) • FOR API'S
-
-***
-
 # YOU HAVE SHOWING LOADING ERRORS IN DEPLOYNMENT JUST WAIT 2 MINUTES IT WILL BE START LOGS I AM FIXING THIS ERROR...
 
 ***
 
-# SESSION ID SERVER 1 IS NOT WORKING USE OTHER SERVERS TO GET SESSION ID I WILL FIX SERVER 1 AS SOON AS POSSIBLE (UMAR)
+
