@@ -12,19 +12,11 @@
 
 ***
 
-# *_GET • [SESSION ID](https://gold-md-server-2-7913a772d360.herokuapp.com) • WITH SERVER 1_*
+# *_GET • [SESSION ID](https://gold-md-servers-11-945df281bb6e.herokuapp.com) • WITH SERVER 1_*
 
 ***
 
-# *_GET • [SESSION ID](https://gold-md-server-3-fda056d35afd.herokuapp.com) • WITH SERVER 2_*
-
-***
-
-# *_GET • [SESSION ID](https://gold-md-server-4-b864b9341803.herokuapp.com) • WITH SERVER 3_*
-
-***
-
-# *_GET • [SESSION ID](https://gold-md-server-5-27f7d00b74e1.herokuapp.com) • WITH SERVER 4_*
+# *_GET • [SESSION ID](https://gold-md-servers-22-cff568065c70.herokuapp.com) • WITH SERVER 2_*
 
 ***
 
@@ -50,4 +42,4 @@
 
 ***
 
-
+# *GOLD-MD SESSION ID SERVERS 1 OR 2 FIXED ✔️
