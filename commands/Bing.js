@@ -8,7 +8,7 @@ let handler = async (message, {
   text: inputText
 }) => {
   if (!inputText && !(message.quoted && message.quoted.text)) {
-    throw "Mujh se koi sawal pucho \n Ese likho: \n\n\n ${prefix + command} pakistan independence day";
+    throw "Mujh se koi sawal pucho \n Ese likho: \n\n\n ${usedprefix + command} pakistan independence day";
   }
   if (!inputText && message.quoted && message.quoted.text) {
     inputText = message.quoted.text;
