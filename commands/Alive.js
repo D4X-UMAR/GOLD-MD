@@ -95,8 +95,8 @@ else {
     } else {
         if(!superUser) { repondre("Bot me koi alive msg set nahi") ; return};
 
-      await   repondre("Agar apko bot me alive msg set karna hai to ese likho: .alive message;photo link");
-         repondre("*🔰 HI I AM GOLD MD 🔰*")
+      await   repondre("Apk bot me new alive msg set karna hai?  Newalive msg ese set hoga \n Ese likho:=> \n \n alive GOLD-MD;BY UMAR \n\n Lazmi:= Jab ap yeh sign ; column lagao ge drmyan me to space nahii dena ese ikatha likhna GOLD;MD agar space dya to alive msg set nahi hoga");
+         repondre("*🔰 GOLD-MD WHATSAPP BOT 🔰*")
      }
  } else {
 
