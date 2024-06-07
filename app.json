@@ -103,7 +103,7 @@
     }, 
   "STARTING_BOT_MESSAGE":
   {
-    "description": "Apke inbox me bot ka connected msg ata hai agar ap chahte ho yeh msg ae to |yes| Likho agar chahte ho ke msg Naa ae to |no| Likho",
+    "description": "Is box me |no| Likho ya |yes| apki merzi is ka koi faida nahi hai koi error nahi ae ga bot me",
     "required": true,
     "value": "no"
   },
