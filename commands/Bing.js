@@ -8,17 +8,17 @@ let handler = async (message, {
   text: inputText
 }) => {
   if (!inputText && !(message.quoted && message.quoted.text)) {
-    throw "Please provide some text or quote a message to get a response.";
+    throw "Mujh se koi sawal pucho \n Ese likho: \n\n\n ${prefix + command} pakistan independence day";
   }
   if (!inputText && message.quoted && message.quoted.text) {
     inputText = message.quoted.text;
   }
-  message.reply("Waiting Response from Xlicon-v2 Bot server...");
-  message.react('🤔');
+  message.reply("Me apke sawal ka jawab dhund loo please wait....");
+  message.react('🔰');
   const encodedText = encodeURIComponent(inputText);
   let response = await Bing(encodedText);
   if (!response) {
-    throw new Error("No valid JSON response from Bing ");
+    throw new Error("Apke is sawal ka jawab nahi mere pass sorry koi aur sawal pucho");
   }
   await connection.reply(message.chat, response, message);
 };
