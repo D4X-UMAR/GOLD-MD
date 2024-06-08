@@ -34,7 +34,7 @@
 
 # *_DEVELOPER_*
 <a href="https://github.com/D4X-UMAR"><img src="https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg" width="250" height="250" alt="UMAR"/></a>
-# ( => • [UMAR](https://wa.me/233201817959) • <= )
+# ( => •🙂 UMAR 🙂• <= )
 
 ***
 
@@ -42,4 +42,8 @@
 
 ***
 
-# *GOLD-MD SESSION ID SERVERS 1 OR 2 FIXED ✔️
+# *_SESSION-ID SERVER |1| FIXED ✔️_*
+
+***
+
+# *_SESSION-ID SERVER |2| FIXED ✔️_*
