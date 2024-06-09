@@ -32,13 +32,17 @@
 
 ***
 
-# *_DEVELOPER_*
-<a href="https://github.com/D4X-UMAR"><img src="https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg" width="250" height="250" alt="UMAR"/></a>
-# ( => •🙂 UMAR 🙂• <= )
+# *_CONTACT ME ON • [WHATSAPP](https://wa.me/233201817959) •_*
 
 ***
 
-# YOU HAVE SHOWING LOADING ERRORS IN DEPLOYNMENT JUST WAIT 2 MINUTES IT WILL BE START LOGS I AM FIXING THIS ERROR...
+# *_DEVELOPER_*
+<a href="https://github.com/D4X-UMAR"><img src="https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg" width="250" height="250" alt="UMAR"/></a>
+# ( => • UMAR • <= )
+
+***
+
+### YOU HAVE SHOWING LOADING ERRORS IN DEPLOYNMENT JUST WAIT 2 MINUTES IT WILL BE START LOGS I AM FIXING THIS ERROR...
 
 ***
 
