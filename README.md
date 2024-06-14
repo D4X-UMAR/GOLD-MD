@@ -6,7 +6,7 @@
     <img alt="GOLD-MD" height="400" src="https://i.postimg.cc/1XQq5DzP/pictures-white949544-GOjsnnsnznznzbzbbzbz7777-GOLDLD-PIC.png">
   </a>
 </p>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 # *_JUST • [FORK](https://dashboard.heroku.com/new?template=https://github.com/D4X-UMAR/GOLD-MD/fork) • THE GOLD-MD REPO_*
 
