@@ -73,11 +73,10 @@ france({ nomCom: "owner", categorie: "General", reaction: "🔰" }, async (dest,
 
     const devs = [
       { nom: "|UMAR|", numero: "233201817959" },
-     { nom: "|NABEEL|", numero: "923225302306" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "🔰 GOLD-MD OWNERS 🔰:\n\n";
+    let message = "🔰 GOLD-MD OWNER 🔰:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : wa.me/${dev.numero}\n`;
     }
