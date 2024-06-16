@@ -3,7 +3,7 @@ const axios = require('axios');
 async function deployToKoyeb() {
   try {
     // Set your Koyeb API key and repository details
-    const apiKey = 'YOUR_KOYEB_API_KEY';
+    const apiKey = 'yvnpd9am585uq5m0302nyxui4vo8qf7ox0d4zg22ieduf7gglmxggntfkmy972xq';
     const repoName = 'GOLD-MD';
     const branch = 'main';
 
