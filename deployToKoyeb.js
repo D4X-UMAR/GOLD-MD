@@ -8,7 +8,7 @@ async function deployToKoyeb() {
     const branch = 'main';
 
     // Set the Koyeb API endpoint and headers
-    const koyebApiUrl = '(link unavailable)';
+    const koyebApiUrl = '';
     const headers = {
       'Authorization': `Bearer ${apiKey}`,
       'Content-Type': 'application/json'
@@ -24,7 +24,7 @@ async function deployToKoyeb() {
       }
     }, { headers });
 
-    const deploymentId = (link unavailable);
+    const deploymentId = ;
 
     // Wait for the deployment to complete
     while (true) {
