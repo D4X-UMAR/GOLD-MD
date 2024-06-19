@@ -38,6 +38,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### YOU HAVE SHOWING LOADING ERRORS IN DEPLOYNMENT JUST WAIT 2 MINUTES IT WILL BE START LOGS I AM FIXING THIS ERROR...
-
+## SOON INSHALLAH YOU CAN DEPLOY GOLD-MD ON
+# KOYEB PLATFORM
+# RAILWAY PLATFORM
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
