@@ -3,7 +3,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/D4X-UMAR">
-    <img alt="GOLD-MD" height="400" src="https://i.postimg.cc/1XQq5DzP/pictures-white949544-GOjsnnsnznznzbzbbzbz7777-GOLDLD-PIC.png">
+    <img alt="GOLD-MD" height="400" src="https://i.ibb.co/hWxbtg1/GOLD-MD-PIC-MADE-BY-UMAR.jpg">
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
