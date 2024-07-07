@@ -12,7 +12,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-# *_GET • [SESSION ID]([https://gold-md-servers-33-d49ebae8dc4e.herokuapp.com](https://r.m.scalingo.com/tr/cl/mV8XfVgxkEIOj8-aZ4swzq78rx3JtPVGOEDNcHrYgEuvRujfM3spslVVADvPckN1Hni13lUo2rnAMCqBacDMzFmqmxT799Zp1D7oHCE9m1HrnaNMg6AQ9n3Mf3mbpHvgQWpLsMo6ZikrsiB_l9FWoNpHFhmxYHepxbxceA1vbojN2UX_N_4xHsMDlNrFaOBvPnMn9Kg7JfXlnf0VZ8hfprx5L8VAUVU1h4RjyYgyopaBEbmBZy2kDllmZ6n_lLxnHBFUBePT2DXjzpeIbaXH) • FOR GOLD-MD_*
+# *_GET • [SESSION ID](https://r.m.scalingo.com/tr/cl/mV8XfVgxkEIOj8-aZ4swzq78rx3JtPVGOEDNcHrYgEuvRujfM3spslVVADvPckN1Hni13lUo2rnAMCqBacDMzFmqmxT799Zp1D7oHCE9m1HrnaNMg6AQ9n3Mf3mbpHvgQWpLsMo6ZikrsiB_l9FWoNpHFhmxYHepxbxceA1vbojN2UX_N_4xHsMDlNrFaOBvPnMn9Kg7JfXlnf0VZ8hfprx5L8VAUVU1h4RjyYgyopaBEbmBZy2kDllmZ6n_lLxnHBFUBePT2DXjzpeIbaXH) • FOR GOLD-MD_*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
