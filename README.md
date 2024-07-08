@@ -16,6 +16,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+# GET • [SESSION ID](https://gold-md1-by-umar.osc-fr1.scalingo.io/) • WITH SERVER 2
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 # *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/D4X-UMAR/GOLD-MD&template=https://github.com/D4X-UMAR/GOLD-MD) • GOLD-MD ON HEROKU_*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
