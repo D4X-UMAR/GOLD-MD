@@ -12,11 +12,11 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-# *_GET • [SESSION ID](https://r.m.scalingo.com/tr/cl/mV8XfVgxkEIOj8-aZ4swzq78rx3JtPVGOEDNcHrYgEuvRujfM3spslVVADvPckN1Hni13lUo2rnAMCqBacDMzFmqmxT799Zp1D7oHCE9m1HrnaNMg6AQ9n3Mf3mbpHvgQWpLsMo6ZikrsiB_l9FWoNpHFhmxYHepxbxceA1vbojN2UX_N_4xHsMDlNrFaOBvPnMn9Kg7JfXlnf0VZ8hfprx5L8VAUVU1h4RjyYgyopaBEbmBZy2kDllmZ6n_lLxnHBFUBePT2DXjzpeIbaXH) • FOR GOLD-MD_*
+# *_GET • [SESSION ID](https://r.m.scalingo.com/tr/cl/mV8XfVgxkEIOj8-aZ4swzq78rx3JtPVGOEDNcHrYgEuvRujfM3spslVVADvPckN1Hni13lUo2rnAMCqBacDMzFmqmxT799Zp1D7oHCE9m1HrnaNMg6AQ9n3Mf3mbpHvgQWpLsMo6ZikrsiB_l9FWoNpHFhmxYHepxbxceA1vbojN2UX_N_4xHsMDlNrFaOBvPnMn9Kg7JfXlnf0VZ8hfprx5L8VAUVU1h4RjyYgyopaBEbmBZy2kDllmZ6n_lLxnHBFUBePT2DXjzpeIbaXH) • WITH SERVER 1_*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-# GET • [SESSION ID](https://gold-md1-by-umar.osc-fr1.scalingo.io/) • WITH SERVER 2
+# *_GET • [SESSION ID](https://gold-md1-by-umar.osc-fr1.scalingo.io/) • WITH SERVER 2_*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -25,10 +25,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 # *_FOLLOW • [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y) •_*
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-# *_JOIN • [WHATSAPP GROUP](https://chat.whatsapp.com/II4CelPFUvIFeK6f8hdJuX) •_*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
