@@ -12,14 +12,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-# *_GET • [SESSION ID](https://r.m.scalingo.com/tr/cl/mV8XfVgxkEIOj8-aZ4swzq78rx3JtPVGOEDNcHrYgEuvRujfM3spslVVADvPckN1Hni13lUo2rnAMCqBacDMzFmqmxT799Zp1D7oHCE9m1HrnaNMg6AQ9n3Mf3mbpHvgQWpLsMo6ZikrsiB_l9FWoNpHFhmxYHepxbxceA1vbojN2UX_N_4xHsMDlNrFaOBvPnMn9Kg7JfXlnf0VZ8hfprx5L8VAUVU1h4RjyYgyopaBEbmBZy2kDllmZ6n_lLxnHBFUBePT2DXjzpeIbaXH) • WITH SERVER 1_*
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-# *_GET • [SESSION ID](https://gold-md1-by-umar.osc-fr1.scalingo.io/) • WITH SERVER 2_*
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 # *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/D4X-UMAR/GOLD-MD&template=https://github.com/D4X-UMAR/GOLD-MD) • GOLD-MD ON HEROKU_*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -36,9 +28,4 @@
 <a href="https://github.com/D4X-UMAR"><img src="https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg" width="250" height="250" alt="UMAR"/></a>
 # ( => • UMAR • <= )
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## SOON INSHALLAH YOU CAN DEPLOY GOLD-MD ON
-# KOYEB PLATFORM
-# RAILWAY PLATFORM
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
