@@ -12,7 +12,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-# *_GET • [SESSION ID](https://gold-md-by-umar.vercel.app/) • FOR GOLD-MD
+# *_GET • [SESSION ID](https://gold-md-by-umar.vercel.app/) • FOR GOLD-MD_GOLD-MD_*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
