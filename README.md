@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# ( =========> • GOLD MD • <========= )
+# ( =========> • KHOSA-MD • <========= )
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/D4X-UMAR">
@@ -30,6 +30,6 @@
 
 # *_DEVELOPER_*
 <a href="https://github.com/D4X-UMAR"><img src="https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg" width="250" height="250" alt="UMAR"/></a>
-# ( => • UMAR • <= )
+# ( => • BARKAT • <= )
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
